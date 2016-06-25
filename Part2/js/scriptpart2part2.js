@@ -21,7 +21,7 @@ if (month == 8 || month == 3 || month == 5 || month == 10) {
 	console.log(28);
 }
 */
-// STEP 3.	C
+// STEP 3
 /*
 var d = new Date();
 var month = d.getMonth();
@@ -63,6 +63,7 @@ switch (month) {
 		console.log('December');
 }
 */
+
 // STEP 4
 /*
 var d = new Date();

@@ -18,16 +18,12 @@ var dec = prompt('Please enter a floating point value (a decimal)');
 console.log(Math.floor(dec));
 */
 
-// STEP 4.	Create an application that prompts the user for 5 numbers. 
-//Ask them to comma delimit each number so you get 1,2,3,4,5 for example. 
-//Store the result of that input in a variable and then find the largest 
-//and smallest numbers in that list. Display both of those numbers within 
-//a console window.
+// STEP 4.
 /*
 var x = prompt('Please enter 5 numbers separated by commas. For example: 1,2,3,4,5.');
-console.log(Math.max(arr));
-console.log(Math.min(arr));
-
+var convert = (x.split(','));
+console.log(Math.max(Number(convert[0]),Number(convert[1]),Number(convert[2]),Number(convert[3]),Number(convert[4])));
+console.log(Math.min(Number(convert[0]),Number(convert[1]),Number(convert[2]),Number(convert[3]),Number(convert[4])));
 */
 
 // STEP 5.	

@@ -13,9 +13,7 @@ if (x==y) {
 }
 */
 
-
-
-// STEP 2
+// STEP 2 
 /*
 function grades(name,score) {
 	var grade;
@@ -50,9 +48,7 @@ for (var i = 1; i < 16; i++) {
 }
 */
 
-
 // STEP 4	
-
 /*
 for (var i = 1; i <101; i++) {
 	if (i % 15 == 0) {
@@ -61,6 +57,8 @@ for (var i = 1; i <101; i++) {
 		console.log (i + ' Buzz');
 	} else if (i % 3 == 0) {
 		console.log (i + ' Fizz');
+	} else {
+		console.log(i);
 	}
 }
 */
