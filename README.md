@@ -1,1 +1,1 @@
-This is the readme for assignment2
+JavaScript practice. Using Math, Date and Time, String methods. Simple conditional logic and loops.
